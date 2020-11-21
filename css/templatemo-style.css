@@ -363,7 +363,7 @@ ul {
 */
 
 .about-content {
-  height: 100vh;
+  /* height: 100vh; */
   background-color: rgba(45, 58, 75, 0.5);
   padding: 0px 60px;
   position: relative;
@@ -636,7 +636,7 @@ ul {
     margin-top: 30px;
   }
   .about-content {
-    height: 100vh;
+    /* height: 100vh; */
     text-align: center;
     padding: 0px 30px;
     width: 100vw;
